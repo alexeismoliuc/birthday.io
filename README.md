@@ -1,1 +1,1 @@
-# birth-day.io
+# birthday.io
